@@ -10,7 +10,7 @@ body {
   background: #E3F2FD;
 }
 h1 {
-  background: #5372F0;
+  background: #031b01;
   font-size: 1.75rem;
   text-align: center;
   padding: 18px 0;
@@ -64,7 +64,7 @@ h1 {
   border-radius: 4px;
   font-size: 1rem;
   color: #fff;
-  background: #5372F0;
+  background: #040c2c;
   transition: 0.2s ease;
 }
 .weather-input .search-btn:hover {
@@ -81,7 +81,7 @@ h1 {
 }
 .weather-data .current-weather {
   color: #fff;
-  background: #5372F0;
+  background: #010700;
   border-radius: 5px;
   padding: 20px 70px 20px 20px;
   display: flex;
@@ -120,7 +120,7 @@ h1 {
   padding: 18px 16px;
   list-style: none;
   width: calc(100% / 5);
-  background: #6C757D;
+  background: #53aefd;
   border-radius: 5px;
 }
 .weather-cards .card h3 {
